@@ -14,7 +14,7 @@ import SberGPT3_generator
 import TPDNE_generator
 import kb
 
-API_TOKEN = "1896637723:AAEQfju2nNVxtxAaFhpdgLk8acKUaLpNWZ4"
+API_TOKEN = ""
 
 bot = Bot(token=API_TOKEN)
 # dp = Dispatcher(bot)
